@@ -8,7 +8,7 @@
     <artifactId>auth-center</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>authentication-center</name>
+    <name>auth-center</name>
 
     <modules>
         <!--<module>authentication-application</module>-->

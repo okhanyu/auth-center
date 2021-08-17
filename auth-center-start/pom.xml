@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>net.ninini.auth</groupId>
-    <artifactId>start</artifactId>
+    <artifactId>auth-center-start</artifactId>
 
     <dependencies>
         <dependency>
